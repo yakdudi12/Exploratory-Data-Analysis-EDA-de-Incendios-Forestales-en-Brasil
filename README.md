@@ -134,7 +134,7 @@ El análisis genera los siguientes gráficos:
 
 ## Autor
 
-**Britez, Carnichi Santiago Luis**  
+**Britez, C. Santiago Luis**  
 Analista de datos y Científico de datos   
 LinkedIn: www.linkedin.com/in/santiago-luis-britez-101a8a217 
 
